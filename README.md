@@ -1,8 +1,8 @@
 
-**## SPEECH To TEXT USING**
+**Speech To Text using**
 
 
-**## MACHINE LEARNING**
+**1-D CNN**
 
 **Objective :**
 
@@ -37,25 +37,24 @@ The final phase is testing the predicted model using the input samples of voice.
 
 **Results :**
 
-![](RackMultipart20200620-4-fc1ui1_html_f0900a866a4aac83.png)
+![](output_15_0.png)
 
-Fig 1. This figure shows the number of audio files for each word, represented using the matPlotLib
+Fig 1. Number of audio files for each word, represented using the matPlotLib
 
-![](RackMultipart20200620-4-fc1ui1_html_d76748c146495aec.png)
+![](output_9_1.png)
 
 Fig 2. Sampling the audio signal of a particular word
 
-![](RackMultipart20200620-4-fc1ui1_html_68393b1acb097277.png)
+![](output_17_1.png)
 
-Fig 3. Figure shows the Time distribution of the audio signals
+Fig 3. Time distribution of the audio signals
 
-![](RackMultipart20200620-4-fc1ui1_html_9bd8bc50698df8d2.png)
+![](output_30_0.png)
 
 Fig 4. Epoch v/s the loss in the model
 
-The model ran for 58 epochs and we achieved an accuracy of around 82.95 %. We started with a logarithmic loss of 2.58 and ended up with 0.5.
+The model ran for 58 epochs and we achieved an **accuracy of around 82.95 %**. We started with a logarithmic loss of 2.58 and ended up with 0.5.
 
-**Video : ![](RackMultipart20200620-4-fc1ui1_html_b2ec4fc8e275c41b.png)**
 
 **Conclusion :**
 
@@ -65,6 +64,6 @@ The speech recognition (prediction of words) for the speech command dataset is d
 
 1. https://towardsdatascience.com/hello-world-in-speech-recognition-b2f43b6c5871
 2. https://towardsdatascience.com/easy-speech-to-text-with-python-3df0d973b426
-3. [https://medium.com/@rahulvaish/speech-to-text-python-77b510f06de](https://medium.com/@rahulvaish/speech-to-text-python-77b510f06de)
-4. [https://medium.com/analytics-vidhya/speech-recognition-using-python-bafe550ee6e9](https://medium.com/analytics-vidhya/speech-recognition-using-python-bafe550ee6e9)
+3. https://medium.com/@rahulvaish/speech-to-text-python-77b510f06de
+4. https://medium.com/analytics-vidhya/speech-recognition-using-python-bafe550ee6e9
 5. https://www.rev.com/blog/artificial-intelligence-machine-learning-speech-recognition
