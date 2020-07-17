@@ -1,6 +1,7 @@
 
-# Speech To Text using 1-D CNN
+# Speech Command Recognition using 1-D CNN and audio processing
 
+Video Link:  https://youtu.be/7a7T0AdmLOI
 ## Objective :
 
 Speech recognition is invading our lives. It&#39;s built into our phones, our game consoles and our smart watches and it is even automating our homes. Consider the Amazon Echo/Google Home, a magic box that allows you to hear your daily news, order things online and even wake you up in the morning just investing your voice. At the most basic level, speech recognition converts sound waves to individual letters and ultimately sentences. This also shares a wide range of applications that includes education, health care, telephony, transportation and etc. The significance of this project is to research on this Speech-to-text conversion and experiment this awesome technology which we are planning build using the Machine Learning techniques. Image has already taken its root in Machine Learning and grown into a tree in the form of Computer Vision, but speech and voice is one of the greatest things to consider and we took this idea also to learn how convolutional neural networks plays a major role in the recognizing the human voice.
